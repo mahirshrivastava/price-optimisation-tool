@@ -177,7 +177,7 @@ Update database credentials in Flask configuration
 
 ---
 
-### 📊 UI & Visualization
+## 📊 UI & Visualization
 
 Clean and client-presentable interface
 
@@ -191,7 +191,7 @@ Screenshots are included in the /screenshots directory as per submission instruc
 
 ---
 
-### 🧠 Key Learnings & Takeaways
+## 🧠 Key Learnings & Takeaways
 
 Implementing RBAC in Flask
 
@@ -207,7 +207,7 @@ Translating business requirements into technical solutions
 
 ---
 
-### 🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 ML-based demand forecasting
 
@@ -221,7 +221,7 @@ Multi-region and multi-currency support
 
 ---
 
-### 📎 Submission Notes
+## 📎 Submission Notes
 
 Codebase includes both frontend and backend
 
@@ -237,4 +237,4 @@ Understanding of the problem statement
 
 ---
 
-# Developed as part of a Pricing Optimization Tool – Hiring Assessment using Angular & Flask.
+## Developed as part of a Pricing Optimization Tool – Hiring Assessment using Angular & Flask.
