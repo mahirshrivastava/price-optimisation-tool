@@ -1,4 +1,4 @@
-# Price Optimization Tool
+# Price Optimization Tool - ( Angular and Flask )
 
 ## 📌 Overview
 
